@@ -150,6 +150,7 @@ main{
     right:2.5%;
     background-color: white;
     color: black;
+    background: linear-gradient(45deg, #f66c00, #bc9b75);
 }
 
                                 /* Login/SignUp button */
@@ -177,8 +178,8 @@ transform: translateY(-3px);
 box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 filter: brightness(1.1);
 }
-.sign-in {
-background: linear-gradient(45deg, #0062e6, #33aeff);
+.sign-in {   
+   background: linear-gradient(45deg, #f66c00, #bc9b75);
 /* background-color: red; */
 position: absolute;
 z-index: 4;
